@@ -1,8 +1,8 @@
 # 🛠️ Prédiction des Pannes pour IDSUD Energies
 
-##📌 Description
+## 📌 Description
 
-🚀 Dans le cadre d'un projet d'innovation avec IDSUD Energies, j'ai développé un modèle de maintenance prédictive pour le système hybride Nheolight, qui comprend : Panneaux solaires-Éoliennes- Batteries-LEDs
+ Dans le cadre d'un projet d'innovation avec IDSUD Energies, j'ai développé un modèle de maintenance prédictive pour le système hybride Nheolight, qui comprend : Panneaux solaires-Éoliennes- Batteries-LEDs
 
 ## 🎯 Objectif : Anticiper les pannes des composants afin d'améliorer la fiabilité du système et de réduire les coûts de maintenance.
 
