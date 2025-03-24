@@ -1,6 +1,6 @@
-🛠️ Prédiction des Pannes pour IDSUD Energies
+# 🛠️ Prédiction des Pannes pour IDSUD Energies
 
-📌 Description
+##📌 Description
 
 🚀 Dans le cadre d'un projet d'innovation avec IDSUD Energies, j'ai développé un modèle de maintenance prédictive pour le système hybride Nheolight, qui comprend :
 
@@ -12,9 +12,9 @@
 
 💡 LEDs
 
-🎯 Objectif : Anticiper les pannes des composants afin d'améliorer la fiabilité du système et de réduire les coûts de maintenance.
+## 🎯 Objectif : Anticiper les pannes des composants afin d'améliorer la fiabilité du système et de réduire les coûts de maintenance.
 
-🔧 Technologies Utilisées
+## 🔧 Technologies Utilisées
 
 🐍 Python
 
@@ -26,7 +26,7 @@ Scikit-learn (Isolation Forest, XGBoost)
 
 Pandas, NumPy, Matplotlib
 
-🔍 Modèle de Maintenance Prédictive
+## 🔍 Modèle de Maintenance Prédictive
 
 Le projet repose sur deux étapes clés :
 
@@ -40,36 +40,26 @@ Le projet repose sur deux étapes clés :
 ✅ Utilisation des anomalies détectées comme entrées pour un modèle supervisé.
 ✅ Prédiction de la probabilité de panne dans les 3 jours suivants.
 
-📈 Performances des Modèles
+## 📈 Performances des Modèles
 
-Composant
+Précision Globale pour chaque composant
 
-Précision Globale
+☀️ Panneaux solaires: 84 %
 
-☀️ Panneaux solaires
+🌬️ Éoliennes: 96 %
 
-84 %
+🔋 Batteries: 92 %
 
-🌬️ Éoliennes
+💡 LEDs: 91 %
 
-96 %
-
-🔋 Batteries
-
-92 %
-
-💡 LEDs
-
-91 %
-
-🚀 Installation et Utilisation
+## 🚀 Installation et Utilisation
 
 🔹 1. Cloner le dépôt
 
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
+git clone https://github.com/ihssane2002/Projet-innovation.git 
 
 
-🔹 3. Exécuter le notebook sur Google Colab
+🔹2. Exécuter le notebook sur Google Colab
 
 📂 Ouvrir maintenance_predictive.ipynb sur Google Colab.
-▶️ Exécuter les cellules pour charger les données et entraîner les modèles.
+
